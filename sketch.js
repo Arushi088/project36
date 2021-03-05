@@ -39,7 +39,7 @@ addFood.mousePressed(addFoods);
 
 
 function draw() {  
-background("lightblue");
+background(46, 139, 87);
 
 foodObj.display();
 
